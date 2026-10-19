@@ -38,8 +38,8 @@ export default function NewProductPage() {
           err.status === 401
             ? "Authentication required. Please sign in as Administrator."
             : err.status === 403
-            ? "Forbidden: Administrator role required to create products."
-            : err.message
+              ? "Forbidden: Administrator role required to create products."
+              : err.message
         );
       } else {
         setErrorMessage("Failed to create product.");
