@@ -194,7 +194,7 @@ npm run start
 
 ## 7. Documentation & Resources
 
-- 📘 [API Reference & Contracts](docs/API.md): Detailed documentation of all endpoints, request bodies, query parameters, status codes, and security.
-- 📋 [Frontend Assessment Instructions](docs/FRONTEND_ASSIGNMENT.md): Complete candidate guidelines, user stories, and grading rubric.
+- 📘 [API Reference & Contracts](docs/API.txt): Detailed documentation of all endpoints, request bodies, query parameters, status codes, and security.
+- 📋 [Frontend Assessment Instructions](docs/FRONTEND_ASSIGNMENT.txt): Complete candidate guidelines, user stories, and grading rubric.
 - 📮 [Postman Collection](docs/postman_collection.json): Importable collection with ready-to-test requests.
 - 💻 [Frontend API Client](lib/api/client.ts): Reusable, typed client for candidates.

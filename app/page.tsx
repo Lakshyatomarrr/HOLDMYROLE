@@ -139,10 +139,10 @@ export default function HomePage() {
         </p>
         <div className="flex flex-wrap gap-3 pt-2 text-sm">
           <span className="px-3 py-1.5 rounded bg-slate-100 font-mono text-xs text-slate-700 border border-slate-200">
-            📄 docs/API.md
+            📄 docs/API.txt
           </span>
           <span className="px-3 py-1.5 rounded bg-slate-100 font-mono text-xs text-slate-700 border border-slate-200">
-            📄 docs/FRONTEND_ASSIGNMENT.md
+            📄 docs/FRONTEND_ASSIGNMENT.txt
           </span>
           <span className="px-3 py-1.5 rounded bg-slate-100 font-mono text-xs text-slate-700 border border-slate-200">
             📦 docs/postman_collection.json
